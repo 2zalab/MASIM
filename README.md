@@ -3,7 +3,6 @@
 > **A Multi-Agent Intelligent Framework for Real-Time Manufacturing Process Optimization:
 > Integrating XGBoost, Deep Reinforcement Learning, and Contract Net Protocol in Smart Factories**
 >
-> *Submitted to: Journal of Intelligent Manufacturing (Q1 — Springer)*
 > *Author: Touza Isaac — Université de Maroua, Cameroun*
 
 ---
